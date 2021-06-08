@@ -1,0 +1,19 @@
+data/curate backup/*
+data/exports/users.csv
+data/exports/last week's completions.xlsx
+data/exports/students.txt
+data/exports/updated.xlsx
+models/subtopics/*
+models/*
+predictions/*
+predictions/subtopics/*
+results/nonstudent_performance.tsv
+results/other_completions.tsv
+results/Student contributions.xlsx
+results/student_classifications_with_predictions.tsv
+results/student_completions.tsv
+results/student_performance.tsv
+results/student_tasks.tsv
+results/student_top_results.20210512.txt
+.ipynb_checkpoints
+

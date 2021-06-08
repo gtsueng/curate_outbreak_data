@@ -1,0 +1,187 @@
+	_id	category	counts	completions	average	broad_cats	predicted_cats	match?
+6	figshare11961063	Clinical	4	5	0.8	Clinical	['Information Sciences']	False
+12	figshare12015477	Epidemiology	4	6	0.6666666666666666	Epidemiology	['Transmission', 'Prevention', 'Forecasting', 'Environment']	False
+15	figshare12019035	Risk Factors	4	5	0.8	Clinical	['Mechanism', 'Treatment']	False
+19	figshare12030363	Epidemiology	3	3	1.0	Epidemiology	['Forecasting', 'Information Sciences']	False
+21	figshare12033387	Epidemiology	3	4	0.75	Epidemiology	['Prevention']	False
+42	figshare12043746	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+55	figshare12057951	Immunological Response	2	3	0.6666666666666666	Mechanism	['Diagnosis', 'Treatment']	False
+59	figshare12082035	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism', 'Transmission', 'Environment']	False
+62	figshare12084108	Pathology/Radiology	2	3	0.6666666666666666	Diagnosis	['Mechanism']	False
+71	figshare12110037	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Information Sciences']	False
+72	figshare12110118	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention']	False
+75	figshare12114945	Classical epidemiology	3	3	1.0	Epidemiology	['Forecasting', 'Information Sciences']	False
+76	figshare12114996	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Information Sciences']	False
+79	figshare12122007	Risk Factors	2	3	0.6666666666666666	Clinical	['Treatment', 'Behavioral Research']	False
+81	figshare12123681	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Transmission', 'Prevention', 'Forecasting', 'Environment', 'Information Sciences']	False
+84	figshare12128214	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention']	False
+85	figshare12129507	Clinical	2	3	0.6666666666666666	Clinical	['Information Sciences']	False
+86	figshare12129507	Symptoms	2	3	0.6666666666666666	Diagnosis	['Information Sciences']	False
+87	figshare12130980	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention', 'Environment', 'Information Sciences']	False
+90	figshare12143139	Classical epidemiology	3	3	1.0	Epidemiology	['Prevention']	False
+91	figshare12148518	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention']	False
+92	figshare12152967	Diagnosis	3	3	1.0	Diagnosis	['Information Sciences']	False
+93	figshare12152973	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Information Sciences']	False
+94	figshare12152976	Classical epidemiology	3	3	1.0	Epidemiology	['Information Sciences']	False
+97	figshare12160998	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Mechanism']	False
+99	figshare12160998	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism']	False
+101	figshare12161124	Forecasting	2	3	0.6666666666666666	Forecasting	['Prevention']	False
+103	figshare12161910	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention', 'Information Sciences']	False
+105	figshare12163332	Risk Factors	3	3	1.0	Clinical	['Diagnosis', 'Treatment']	False
+106	figshare12174291	Classical epidemiology	3	3	1.0	Epidemiology	['Prevention']	False
+107	figshare12174294	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+108	figshare12174294	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Prevention']	False
+109	figshare12174297	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+110	figshare12174297	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Prevention']	False
+111	figshare12174297	Forecasting	2	3	0.6666666666666666	Forecasting	['Prevention']	False
+113	figshare12188157	Mechanism of Transmission	3	3	1.0	Mechanism	['Prevention']	False
+114	figshare12188157	Viral Shedding / Persistence	2	3	0.6666666666666666	Transmission	['Prevention']	False
+122	figshare12195696	Classical epidemiology	3	3	1.0	Epidemiology	['Prevention']	False
+123	figshare12195735	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Diagnosis']	False
+125	figshare12195735	Treatment	2	3	0.6666666666666666	Treatment	['Diagnosis']	False
+126	figshare12196296	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention']	False
+127	figshare12196296	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+128	figshare12197580	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Prevention']	False
+134	figshare12219572	Classical epidemiology	3	3	1.0	Epidemiology	['Prevention', 'Forecasting']	False
+138	figshare12226952	Public Health Interventions	3	3	1.0	Prevention	['Behavioral Research', 'Information Sciences']	False
+139	figshare12226952	Individual Prevention	2	3	0.6666666666666666	Prevention	['Behavioral Research', 'Information Sciences']	False
+144	figshare12234368	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+145	figshare12234368	Clinical	2	3	0.6666666666666666	Clinical	['Prevention']	False
+146	figshare12234368	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+147	figshare12234371	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+148	figshare12247820	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Forecasting', 'Information Sciences']	False
+151	figshare12249575	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+152	figshare12249578	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention', 'Forecasting']	False
+153	figshare12249578	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Forecasting']	False
+154	figshare12249581	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+156	figshare12250034	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+158	figshare12250733	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Transmission', 'Prevention', 'Forecasting']	False
+160	figshare12250913	Medical Care	2	3	0.6666666666666666	Treatment	['Prevention', 'Information Sciences']	False
+161	figshare12250913	Treatment	2	3	0.6666666666666666	Treatment	['Prevention', 'Information Sciences']	False
+162	figshare12253919	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Forecasting', 'Environment', 'Information Sciences']	False
+163	figshare12270884	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Transmission', 'Prevention', 'Forecasting']	False
+172	figshare12278249	Clinical	2	3	0.6666666666666666	Clinical	['Diagnosis']	False
+176	figshare12283697	Repurposing	2	3	0.6666666666666666	Treatment	['Diagnosis']	False
+177	figshare12290696	Vaccines	3	3	1.0	Treatment	['Mechanism']	False
+189	figshare12309230	Forecasting	2	3	0.6666666666666666	Forecasting	['Prevention']	False
+204	figshare12332972	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Prevention']	False
+207	figshare12345491	Forecasting	2	3	0.6666666666666666	Forecasting	['Prevention']	False
+211	figshare12355733	Host Factors	2	3	0.6666666666666666	Mechanism	['Diagnosis', 'Treatment']	False
+213	figshare12355733	Risk Factors	2	3	0.6666666666666666	Clinical	['Diagnosis', 'Treatment']	False
+222	figshare12362162	Host Factors	2	3	0.6666666666666666	Mechanism	['Diagnosis', 'Treatment']	False
+223	figshare12362162	Risk Factors	2	3	0.6666666666666666	Clinical	['Diagnosis', 'Treatment']	False
+227	figshare12365495	Clinical	3	3	1.0	Clinical	['Treatment']	False
+228	figshare12365495	Symptoms	2	3	0.6666666666666666	Diagnosis	['Treatment']	False
+229	figshare12365498	Clinical	2	3	0.6666666666666666	Clinical	['Treatment']	False
+230	figshare12365498	Symptoms	2	3	0.6666666666666666	Diagnosis	['Treatment']	False
+232	figshare12365501	Clinical	3	3	1.0	Clinical	['Treatment']	False
+234	figshare12365501	Symptoms	2	3	0.6666666666666666	Diagnosis	['Treatment']	False
+243	figshare12369743	Clinical	2	3	0.6666666666666666	Clinical	['Treatment']	False
+244	figshare12369743	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Treatment']	False
+245	figshare12369746	Clinical	3	4	0.75	Clinical	['Treatment']	False
+246	figshare12369749	Clinical	4	4	1.0	Clinical	['Treatment']	False
+247	figshare12369752	Clinical	3	3	1.0	Clinical	['Treatment']	False
+249	figshare12376121	Mechanism of Transmission	2	3	0.6666666666666666	Mechanism	['Transmission', 'Prevention', 'Environment']	False
+253	figshare12376172	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Treatment']	False
+261	figshare12376232	Risk Factors	2	3	0.6666666666666666	Clinical	['Mechanism', 'Behavioral Research']	False
+262	figshare12382553	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism', 'Transmission', 'Treatment', 'Environment']	False
+263	figshare12382553	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Mechanism', 'Transmission', 'Treatment', 'Environment']	False
+264	figshare12382706	Clinical	3	3	1.0	Clinical	['Prevention', 'Forecasting']	False
+269	figshare12389138	Treatment	2	3	0.6666666666666666	Treatment	['Prevention']	False
+270	figshare12389309	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Transmission', 'Prevention', 'Forecasting', 'Environment']	False
+275	figshare12407360	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Forecasting']	False
+277	figshare12407360	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Prevention', 'Forecasting']	False
+279	figshare12433406	Epidemiology	3	4	0.75	Epidemiology	['Transmission', 'Prevention', 'Forecasting', 'Environment']	False
+281	figshare12442379	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Information Sciences']	False
+282	figshare12444224	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism']	False
+283	figshare12444224	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism']	False
+284	figshare12444224	Transmission	2	3	0.6666666666666666	Transmission	['Mechanism']	False
+287	figshare12445691	Risk Factors	2	3	0.6666666666666666	Clinical	['Mechanism', 'Treatment']	False
+295	figshare12449603	Behavioral Research	3	4	0.75	Behavioral Research	['Prevention']	False
+298	figshare12449639	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Diagnosis']	False
+299	figshare12449810	Risk Factors	3	3	1.0	Clinical	['Diagnosis', 'Treatment']	False
+301	figshare12449810	Host Factors	2	3	0.6666666666666666	Mechanism	['Diagnosis', 'Treatment']	False
+302	figshare12449810	Immunological Response	2	3	0.6666666666666666	Mechanism	['Diagnosis', 'Treatment']	False
+303	figshare12449813	Risk Factors	3	3	1.0	Clinical	['Diagnosis', 'Treatment']	False
+305	figshare12449813	Immunological Response	2	3	0.6666666666666666	Mechanism	['Diagnosis', 'Treatment']	False
+306	figshare12449816	Risk Factors	3	3	1.0	Clinical	['Diagnosis', 'Treatment']	False
+308	figshare12449819	Risk Factors	3	3	1.0	Clinical	['Diagnosis', 'Treatment']	False
+310	figshare12449819	Clinical	2	3	0.6666666666666666	Clinical	['Diagnosis', 'Treatment']	False
+311	figshare12449846	Clinical	3	3	1.0	Clinical	['Diagnosis', 'Treatment', 'Case Descriptions']	False
+313	figshare4321055	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Mechanism']	False
+319	figshare4381229	Epidemiology	3	3	1.0	Epidemiology	['Mechanism']	False
+320	figshare4381229	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism']	False
+329	pdb5R82	Pathology/Radiology	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+331	pdb5R83	Molecular epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism', 'Treatment']	False
+332	pdb5R84	Mechanism of Infection	2	3	0.6666666666666666	Mechanism	['Treatment']	False
+337	pdb5REC	Molecular epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism', 'Treatment']	False
+345	pdb6W01	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism']	False
+347	pdb6WEY	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism']	False
+350	pdb6YUN	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism']	False
+351	pdb6YUN	Molecular epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism']	False
+352	pdb6YUN	Viral Shedding / Persistence	2	3	0.6666666666666666	Transmission	['Mechanism']	False
+355	pdb6YZ1	Antibody Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism']	False
+357	pdb6Z2M	Antibody Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism']	False
+364	pdb7BTF	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Case Descriptions']	False
+368	pdb7BW4	Biologics	3	3	1.0	Treatment	['Mechanism', 'Transmission']	False
+369	pdb7BWJ	Biologics	3	3	1.0	Treatment	['Mechanism']	False
+372	pdb7BZF	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism']	False
+381	zenodo.3722580	Molecular epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism', 'Treatment']	False
+382	zenodo.3722580	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+397	zenodo.3730578	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+399	zenodo.3730610	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+410	zenodo.3730947	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+415	zenodo.3730960	Molecular epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism', 'Treatment']	False
+416	zenodo.3730960	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+422	zenodo.3731010	Testing Prevalence	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+423	zenodo.3731010	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+432	zenodo.3731353	Viral Shedding / Persistence	2	3	0.6666666666666666	Transmission	['Mechanism', 'Treatment']	False
+433	zenodo.3731353	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+438	zenodo.3731392	Rapid Diagnostics	4	3	1.3333333333333333	Diagnosis	['Mechanism', 'Treatment']	False
+439	zenodo.3731437	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Information Sciences']	False
+449	zenodo.3732377	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Information Sciences']	False
+450	zenodo.3744866	Symptoms	2	3	0.6666666666666666	Diagnosis	['Information Sciences']	False
+452	zenodo.3746892	Molecular epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism', 'Treatment']	False
+456	zenodo.3749559	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Transmission', 'Prevention']	False
+457	zenodo.3749559	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Transmission', 'Prevention']	False
+459	zenodo.3749747	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Forecasting']	False
+466	zenodo.3753552	Clinical	3	3	1.0	Clinical	['Forecasting', 'Behavioral Research', 'Information Sciences']	False
+468	zenodo.3754719	Transmission	2	3	0.6666666666666666	Transmission	['Mechanism', 'Treatment']	False
+469	zenodo.3755835	Transmission	2	3	0.6666666666666666	Transmission	['Mechanism']	False
+470	zenodo.3756937	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Transmission']	False
+473	zenodo.3757554	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Forecasting', 'Information Sciences']	False
+474	zenodo.3757554	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Prevention', 'Forecasting', 'Information Sciences']	False
+475	zenodo.3759869	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention']	False
+476	zenodo.3763421	Clinical	2	3	0.6666666666666666	Clinical	['Diagnosis']	False
+477	zenodo.3763421	Risk Factors	2	3	0.6666666666666666	Clinical	['Diagnosis']	False
+482	zenodo.3775672	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Transmission', 'Prevention', 'Forecasting']	False
+486	zenodo.3780182	Clinical	2	3	0.6666666666666666	Clinical	['Diagnosis']	False
+488	zenodo.3782480	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+491	zenodo.3783510	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Treatment']	False
+492	zenodo.3783636	Clinical	2	3	0.6666666666666666	Clinical	['Diagnosis', 'Treatment']	False
+494	zenodo.3784400	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Forecasting', 'Information Sciences']	False
+496	zenodo.3784400	Transmission	2	3	0.6666666666666666	Transmission	['Forecasting', 'Information Sciences']	False
+497	zenodo.3788733	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Forecasting', 'Environment', 'Information Sciences']	False
+499	zenodo.3799740	Epidemiology	3	3	1.0	Epidemiology	['Diagnosis', 'Treatment']	False
+500	zenodo.3799740	Risk Factors	3	3	1.0	Clinical	['Diagnosis', 'Treatment']	False
+504	zenodo.3807765	Molecular epidemiology	2	3	0.6666666666666666	Epidemiology	['Mechanism', 'Treatment']	False
+506	zenodo.3816667	Behavioral Research	3	3	1.0	Behavioral Research	['Information Sciences']	False
+508	zenodo.3819126	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Information Sciences']	False
+509	zenodo.3819126	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Prevention', 'Information Sciences']	False
+519	zenodo.3820109	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism']	False
+540	zenodo.3821525	Testing Prevalence	3	3	1.0	Diagnosis	['Transmission', 'Prevention', 'Forecasting']	False
+541	zenodo.3822299	Molecular epidemiology	5	4	1.25	Epidemiology	['Mechanism', 'Treatment']	False
+544	zenodo.3824950	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Information Sciences']	False
+548	zenodo.3833230	Transmission	2	3	0.6666666666666666	Transmission	['Prevention', 'Forecasting', 'Environment']	False
+552	zenodo.3835802	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Information Sciences']	False
+554	zenodo.3839065	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+555	zenodo.3839098	Host Factors	2	3	0.6666666666666666	Mechanism	['Information Sciences']	False
+556	zenodo.3839098	Host/Intermediate Reservoirs	2	3	0.6666666666666666	Transmission	['Information Sciences']	False
+558	zenodo.3840625	Molecular epidemiology	5	3	1.6666666666666667	Epidemiology	['Mechanism', 'Treatment']	False
+559	zenodo.3841842	Epidemiology	3	3	1.0	Epidemiology	['Prevention']	False
+560	zenodo.3841842	Classical epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention']	False
+561	zenodo.3842180	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Information Sciences']	False
+562	zenodo.3842744	Epidemiology	2	3	0.6666666666666666	Epidemiology	['Prevention', 'Information Sciences']	False
+563	zenodo.3855135	Forecasting	2	3	0.6666666666666666	Forecasting	['Prevention']	False
+566	zenodo.3855135	Treatment	2	3	0.6666666666666666	Treatment	['Prevention']	False
+571	zenodo.3862076	Treatment	3	3	1.0	Treatment	['Transmission', 'Prevention']	False

@@ -1,0 +1,541 @@
+	topicCategory	set size	classifier	auc	report	matrix	i
+0	Virus Factors	177	Random Forest	0.8777777777777778	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.909091         1.000000  0.916667   0.954545      0.924242
+recall        1.000000         0.500000  0.916667   0.750000      0.916667
+f1-score      0.952381         0.666667  0.916667   0.809524      0.904762
+support      30.000000         6.000000  0.916667  36.000000     36.000000"	"[[30  0]
+ [ 3  3]]"	0
+1	Virus Factors	177	Random Forest	0.9388888888888889	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.906250             0.75  0.888889   0.828125      0.880208
+recall        0.966667             0.50  0.888889   0.733333      0.888889
+f1-score      0.935484             0.60  0.888889   0.767742      0.879570
+support      30.000000             6.00  0.888889  36.000000     36.000000"	"[[29  1]
+ [ 3  3]]"	1
+2	Virus Factors	177	Random Forest	0.8078817733990148	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.903226         0.800000  0.888889   0.851613      0.883154
+recall        0.965517         0.571429  0.888889   0.768473      0.888889
+f1-score      0.933333         0.666667  0.888889   0.800000      0.881481
+support      29.000000         7.000000  0.888889  36.000000     36.000000"	"[[28  1]
+ [ 3  4]]"	2
+3	Virus Factors	177	Random Forest	0.9765625	"           in category  not in category  accuracy  macro avg  weighted avg
+precision      1.00000         0.571429  0.916667   0.785714      0.952381
+recall         0.90625         1.000000  0.916667   0.953125      0.916667
+f1-score       0.95082         0.727273  0.916667   0.839046      0.925981
+support       32.00000         4.000000  0.916667  36.000000     36.000000"	"[[29  3]
+ [ 0  4]]"	3
+4	Virus Factors	177	Random Forest	0.9230769230769231	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.787879         1.000000  0.805556   0.893939      0.846801
+recall        1.000000         0.300000  0.805556   0.650000      0.805556
+f1-score      0.881356         0.461538  0.805556   0.671447      0.764740
+support      26.000000        10.000000  0.805556  36.000000     36.000000"	"[[26  0]
+ [ 7  3]]"	4
+5	Mechanism of Infection	16	Random Forest	0.25	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.333333              0.0      0.25   0.166667      0.166667
+recall        0.500000              0.0      0.25   0.250000      0.250000
+f1-score      0.400000              0.0      0.25   0.200000      0.200000
+support       2.000000              2.0      0.25   4.000000      4.000000"	"[[1 1]
+ [2 0]]"	0
+6	Mechanism of Infection	16	Random Forest	0.8333333333333334	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0             0.25      0.25      0.125        0.0625
+recall             0.0             1.00      0.25      0.500        0.2500
+f1-score           0.0             0.40      0.25      0.200        0.1000
+support            3.0             1.00      0.25      4.000        4.0000"	"[[0 3]
+ [0 1]]"	1
+7	Mechanism of Infection	16	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0             0.25      0.25      0.125        0.0625
+recall             0.0             1.00      0.25      0.500        0.2500
+f1-score           0.0             0.40      0.25      0.200        0.1000
+support            3.0             1.00      0.25      4.000        4.0000"	"[[0 3]
+ [0 1]]"	2
+8	Mechanism of Infection	16	Random Forest	0.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000              0.0      0.25   0.250000         0.375
+recall        0.333333              0.0      0.25   0.166667         0.250
+f1-score      0.400000              0.0      0.25   0.200000         0.300
+support       3.000000              1.0      0.25   4.000000         4.000"	"[[1 2]
+ [1 0]]"	3
+9	Mechanism of Infection	16	Random Forest	0.6666666666666667	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0             0.25      0.25      0.125        0.0625
+recall             0.0             1.00      0.25      0.500        0.2500
+f1-score           0.0             0.40      0.25      0.200        0.1000
+support            3.0             1.00      0.25      4.000        4.0000"	"[[0 3]
+ [0 1]]"	4
+10	Mechanism	28	Random Forest	0.2777777777777778	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.400000              0.0  0.333333   0.200000      0.200000
+recall        0.666667              0.0  0.333333   0.333333      0.333333
+f1-score      0.500000              0.0  0.333333   0.250000      0.250000
+support       3.000000              3.0  0.333333   6.000000      6.000000"	"[[2 1]
+ [3 0]]"	0
+11	Mechanism	28	Random Forest	0.6	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.200000         1.000000  0.333333   0.600000      0.866667
+recall        1.000000         0.200000  0.333333   0.600000      0.333333
+f1-score      0.333333         0.333333  0.333333   0.333333      0.333333
+support       1.000000         5.000000  0.333333   6.000000      6.000000"	"[[1 0]
+ [4 1]]"	1
+12	Mechanism	28	Random Forest	0.5	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.333333         0.333333  0.333333   0.333333      0.333333
+recall        0.333333         0.333333  0.333333   0.333333      0.333333
+f1-score      0.333333         0.333333  0.333333   0.333333      0.333333
+support       3.000000         3.000000  0.333333   6.000000      6.000000"	"[[1 2]
+ [2 1]]"	2
+13	Mechanism	28	Random Forest	0.8	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.200000         1.000000  0.333333   0.600000      0.866667
+recall        1.000000         0.200000  0.333333   0.600000      0.333333
+f1-score      0.333333         0.333333  0.333333   0.333333      0.333333
+support       1.000000         5.000000  0.333333   6.000000      6.000000"	"[[1 0]
+ [4 1]]"	3
+14	Mechanism	28	Random Forest	0.5	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.200000         1.000000  0.333333   0.600000      0.866667
+recall        1.000000         0.200000  0.333333   0.600000      0.333333
+f1-score      0.333333         0.333333  0.333333   0.333333      0.333333
+support       1.000000         5.000000  0.333333   6.000000      6.000000"	"[[1 0]
+ [4 1]]"	4
+15	Host Factors	28	Random Forest	0.7777777777777778	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.750000         1.000000  0.833333   0.875000      0.875000
+recall        1.000000         0.666667  0.833333   0.833333      0.833333
+f1-score      0.857143         0.800000  0.833333   0.828571      0.828571
+support       3.000000         3.000000  0.833333   6.000000      6.000000"	"[[3 0]
+ [1 2]]"	0
+16	Host Factors	28	Random Forest	0.8	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	1
+17	Host Factors	28	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.750000         1.000000  0.833333   0.875000      0.875000
+recall        1.000000         0.666667  0.833333   0.833333      0.833333
+f1-score      0.857143         0.800000  0.833333   0.828571      0.828571
+support       3.000000         3.000000  0.833333   6.000000      6.000000"	"[[3 0]
+ [1 2]]"	2
+18	Host Factors	28	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.25         1.000000       0.5   0.625000      0.875000
+recall            1.00         0.400000       0.5   0.700000      0.500000
+f1-score          0.40         0.571429       0.5   0.485714      0.542857
+support           1.00         5.000000       0.5   6.000000      6.000000"	"[[1 0]
+ [3 2]]"	3
+19	Host Factors	28	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.25         1.000000       0.5   0.625000      0.875000
+recall            1.00         0.400000       0.5   0.700000      0.500000
+f1-score          0.40         0.571429       0.5   0.485714      0.542857
+support           1.00         5.000000       0.5   6.000000      6.000000"	"[[1 0]
+ [3 2]]"	4
+20	Immunological Response	28	Random Forest	0.6666666666666666	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         0.500000       0.5   0.500000      0.500000
+recall        0.333333         0.666667       0.5   0.500000      0.500000
+f1-score      0.400000         0.571429       0.5   0.485714      0.485714
+support       3.000000         3.000000       0.5   6.000000      6.000000"	"[[1 2]
+ [1 2]]"	0
+21	Immunological Response	28	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	1
+22	Immunological Response	28	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.750000         1.000000  0.833333   0.875000      0.875000
+recall        1.000000         0.666667  0.833333   0.833333      0.833333
+f1-score      0.857143         0.800000  0.833333   0.828571      0.828571
+support       3.000000         3.000000  0.833333   6.000000      6.000000"	"[[3 0]
+ [1 2]]"	2
+23	Immunological Response	28	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.333333             1.00  0.666667   0.666667      0.888889
+recall        1.000000             0.60  0.666667   0.800000      0.666667
+f1-score      0.500000             0.75  0.666667   0.625000      0.708333
+support       1.000000             5.00  0.666667   6.000000      6.000000"	"[[1 0]
+ [2 3]]"	3
+24	Immunological Response	28	Random Forest	0.8	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	4
+25	Mechanism of Transmission	6	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            1.0              1.0       1.0        2.0           2.0"	"[[1 0]
+ [0 1]]"	0
+26	Mechanism of Transmission	6	Random Forest	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0              0.0       0.0        0.0           0.0
+recall             0.0              0.0       0.0        0.0           0.0
+f1-score           0.0              0.0       0.0        0.0           0.0
+support            2.0              0.0       0.0        2.0           2.0"	"[[0 2]
+ [0 0]]"	1
+27	Mechanism of Transmission	6	Random Forest	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000              0.0       0.5   0.250000      0.250000
+recall        1.000000              0.0       0.5   0.500000      0.500000
+f1-score      0.666667              0.0       0.5   0.333333      0.333333
+support       1.000000              1.0       0.5   2.000000      2.000000"	"[[1 0]
+ [1 0]]"	2
+28	Mechanism of Transmission	6	Random Forest	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0              0.0       0.0        0.0           0.0
+recall             0.0              0.0       0.0        0.0           0.0
+f1-score           0.0              0.0       0.0        0.0           0.0
+support            0.0              2.0       0.0        2.0           2.0"	"[[0 0]
+ [2 0]]"	3
+29	Mechanism of Transmission	6	Random Forest	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0         1.000000       0.5   0.500000      1.000000
+recall             0.0         0.500000       0.5   0.250000      0.500000
+f1-score           0.0         0.666667       0.5   0.333333      0.666667
+support            0.0         2.000000       0.5   2.000000      2.000000"	"[[0 0]
+ [1 1]]"	4
+30	Virus Factors	177	MultinomialNB	0.8694444444444445	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.909091         1.000000  0.916667   0.954545      0.924242
+recall        1.000000         0.500000  0.916667   0.750000      0.916667
+f1-score      0.952381         0.666667  0.916667   0.809524      0.904762
+support      30.000000         6.000000  0.916667  36.000000     36.000000"	"[[30  0]
+ [ 3  3]]"	0
+31	Virus Factors	177	MultinomialNB	0.961111111111111	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.909091         1.000000  0.916667   0.954545      0.924242
+recall        1.000000         0.500000  0.916667   0.750000      0.916667
+f1-score      0.952381         0.666667  0.916667   0.809524      0.904762
+support      30.000000         6.000000  0.916667  36.000000     36.000000"	"[[30  0]
+ [ 3  3]]"	1
+32	Virus Factors	177	MultinomialNB	0.8448275862068966	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.875000         0.750000  0.861111   0.812500      0.850694
+recall        0.965517         0.428571  0.861111   0.697044      0.861111
+f1-score      0.918033         0.545455  0.861111   0.731744      0.845587
+support      29.000000         7.000000  0.861111  36.000000     36.000000"	"[[28  1]
+ [ 4  3]]"	2
+33	Virus Factors	177	MultinomialNB	0.984375	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.800000  0.972222   0.900000      0.977778
+recall        0.968750         1.000000  0.972222   0.984375      0.972222
+f1-score      0.984127         0.888889  0.972222   0.936508      0.973545
+support      32.000000         4.000000  0.972222  36.000000     36.000000"	"[[31  1]
+ [ 0  4]]"	3
+34	Virus Factors	177	MultinomialNB	0.9153846153846155	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.812500         1.000000  0.833333    0.90625      0.864583
+recall        1.000000         0.400000  0.833333    0.70000      0.833333
+f1-score      0.896552         0.571429  0.833333    0.73399      0.806240
+support      26.000000        10.000000  0.833333   36.00000     36.000000"	"[[26  0]
+ [ 6  4]]"	4
+35	Mechanism of Infection	16	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            2.0              2.0       1.0        4.0           4.0"	"[[2 0]
+ [0 2]]"	0
+36	Mechanism of Infection	16	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.500000      0.75   0.750000      0.875000
+recall        0.666667         1.000000      0.75   0.833333      0.750000
+f1-score      0.800000         0.666667      0.75   0.733333      0.766667
+support       3.000000         1.000000      0.75   4.000000      4.000000"	"[[2 1]
+ [0 1]]"	1
+37	Mechanism of Infection	16	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.333333       0.5   0.666667      0.833333
+recall        0.333333         1.000000       0.5   0.666667      0.500000
+f1-score      0.500000         0.500000       0.5   0.500000      0.500000
+support       3.000000         1.000000       0.5   4.000000      4.000000"	"[[1 2]
+ [0 1]]"	2
+38	Mechanism of Infection	16	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.333333       0.5   0.666667      0.833333
+recall        0.333333         1.000000       0.5   0.666667      0.500000
+f1-score      0.500000         0.500000       0.5   0.500000      0.500000
+support       3.000000         1.000000       0.5   4.000000      4.000000"	"[[1 2]
+ [0 1]]"	3
+39	Mechanism of Infection	16	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.333333       0.5   0.666667      0.833333
+recall        0.333333         1.000000       0.5   0.666667      0.500000
+f1-score      0.500000         0.500000       0.5   0.500000      0.500000
+support       3.000000         1.000000       0.5   4.000000      4.000000"	"[[1 2]
+ [0 1]]"	4
+40	Mechanism	28	MultinomialNB	0.5	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         0.500000       0.5   0.500000      0.500000
+recall        0.666667         0.333333       0.5   0.500000      0.500000
+f1-score      0.571429         0.400000       0.5   0.485714      0.485714
+support       3.000000         3.000000       0.5   6.000000      6.000000"	"[[2 1]
+ [2 1]]"	0
+41	Mechanism	28	MultinomialNB	0.6	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.200000         1.000000  0.333333   0.600000      0.866667
+recall        1.000000         0.200000  0.333333   0.600000      0.333333
+f1-score      0.333333         0.333333  0.333333   0.333333      0.333333
+support       1.000000         5.000000  0.333333   6.000000      6.000000"	"[[1 0]
+ [4 1]]"	1
+42	Mechanism	28	MultinomialNB	0.2777777777777778	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.250000              0.0  0.166667   0.125000      0.125000
+recall        0.333333              0.0  0.166667   0.166667      0.166667
+f1-score      0.285714              0.0  0.166667   0.142857      0.142857
+support       3.000000              3.0  0.166667   6.000000      6.000000"	"[[1 2]
+ [3 0]]"	2
+43	Mechanism	28	MultinomialNB	0.9	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.25         1.000000       0.5   0.625000      0.875000
+recall            1.00         0.400000       0.5   0.700000      0.500000
+f1-score          0.40         0.571429       0.5   0.485714      0.542857
+support           1.00         5.000000       0.5   6.000000      6.000000"	"[[1 0]
+ [3 2]]"	3
+44	Mechanism	28	MultinomialNB	0.9	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.25         1.000000       0.5   0.625000      0.875000
+recall            1.00         0.400000       0.5   0.700000      0.500000
+f1-score          0.40         0.571429       0.5   0.485714      0.542857
+support           1.00         5.000000       0.5   6.000000      6.000000"	"[[1 0]
+ [3 2]]"	4
+45	Host Factors	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            3.0              3.0       1.0        6.0           6.0"	"[[3 0]
+ [0 3]]"	0
+46	Host Factors	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	1
+47	Host Factors	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            3.0              3.0       1.0        6.0           6.0"	"[[3 0]
+ [0 3]]"	2
+48	Host Factors	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	3
+49	Host Factors	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	4
+50	Immunological Response	28	MultinomialNB	0.888888888888889	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.750000  0.833333   0.875000      0.875000
+recall        0.666667         1.000000  0.833333   0.833333      0.833333
+f1-score      0.800000         0.857143  0.833333   0.828571      0.828571
+support       3.000000         3.000000  0.833333   6.000000      6.000000"	"[[2 1]
+ [0 3]]"	0
+51	Immunological Response	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.200000         1.000000  0.333333   0.600000      0.866667
+recall        1.000000         0.200000  0.333333   0.600000      0.333333
+f1-score      0.333333         0.333333  0.333333   0.333333      0.333333
+support       1.000000         5.000000  0.333333   6.000000      6.000000"	"[[1 0]
+ [4 1]]"	1
+52	Immunological Response	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            3.0              3.0       1.0        6.0           6.0"	"[[3 0]
+ [0 3]]"	2
+53	Immunological Response	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	3
+54	Immunological Response	28	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	4
+55	Mechanism of Transmission	6	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            1.0              1.0       1.0        2.0           2.0"	"[[1 0]
+ [0 1]]"	0
+56	Mechanism of Transmission	6	MultinomialNB	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0              0.0       0.0        0.0           0.0
+recall             0.0              0.0       0.0        0.0           0.0
+f1-score           0.0              0.0       0.0        0.0           0.0
+support            2.0              0.0       0.0        2.0           2.0"	"[[0 2]
+ [0 0]]"	1
+57	Mechanism of Transmission	6	MultinomialNB	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            1.0              1.0       1.0        2.0           2.0"	"[[1 0]
+ [0 1]]"	2
+58	Mechanism of Transmission	6	MultinomialNB	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0              0.0       0.0        0.0           0.0
+recall             0.0              0.0       0.0        0.0           0.0
+f1-score           0.0              0.0       0.0        0.0           0.0
+support            0.0              2.0       0.0        2.0           2.0"	"[[0 0]
+ [2 0]]"	3
+59	Mechanism of Transmission	6	MultinomialNB	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0              0.0       0.0        0.0           0.0
+recall             0.0              0.0       0.0        0.0           0.0
+f1-score           0.0              0.0       0.0        0.0           0.0
+support            0.0              2.0       0.0        2.0           2.0"	"[[0 0]
+ [2 0]]"	4
+60	Virus Factors	177	Logistic Regression	0.8583333333333334	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.909091         1.000000  0.916667   0.954545      0.924242
+recall        1.000000         0.500000  0.916667   0.750000      0.916667
+f1-score      0.952381         0.666667  0.916667   0.809524      0.904762
+support      30.000000         6.000000  0.916667  36.000000     36.000000"	"[[30  0]
+ [ 3  3]]"	0
+61	Virus Factors	177	Logistic Regression	0.9166666666666666	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.882353         1.000000  0.888889   0.941176      0.901961
+recall        1.000000         0.333333  0.888889   0.666667      0.888889
+f1-score      0.937500         0.500000  0.888889   0.718750      0.864583
+support      30.000000         6.000000  0.888889  36.000000     36.000000"	"[[30  0]
+ [ 4  2]]"	1
+62	Virus Factors	177	Logistic Regression	0.8448275862068966	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.848485         0.666667  0.833333   0.757576      0.813131
+recall        0.965517         0.285714  0.833333   0.625616      0.833333
+f1-score      0.903226         0.400000  0.833333   0.651613      0.805376
+support      29.000000         7.000000  0.833333  36.000000     36.000000"	"[[28  1]
+ [ 5  2]]"	2
+63	Virus Factors	177	Logistic Regression	0.984375	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.800000  0.972222   0.900000      0.977778
+recall        0.968750         1.000000  0.972222   0.984375      0.972222
+f1-score      0.984127         0.888889  0.972222   0.936508      0.973545
+support      32.000000         4.000000  0.972222  36.000000     36.000000"	"[[31  1]
+ [ 0  4]]"	3
+64	Virus Factors	177	Logistic Regression	0.9346153846153846	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.742857         1.000000      0.75   0.871429      0.814286
+recall        1.000000         0.100000      0.75   0.550000      0.750000
+f1-score      0.852459         0.181818      0.75   0.517139      0.666170
+support      26.000000        10.000000      0.75  36.000000     36.000000"	"[[26  0]
+ [ 9  1]]"	4
+65	Mechanism of Infection	16	Logistic Regression	0.5	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.666667         1.000000      0.75   0.833333      0.833333
+recall        1.000000         0.500000      0.75   0.750000      0.750000
+f1-score      0.800000         0.666667      0.75   0.733333      0.733333
+support       2.000000         2.000000      0.75   4.000000      4.000000"	"[[2 0]
+ [1 1]]"	0
+66	Mechanism of Infection	16	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0             0.25      0.25      0.125        0.0625
+recall             0.0             1.00      0.25      0.500        0.2500
+f1-score           0.0             0.40      0.25      0.200        0.1000
+support            3.0             1.00      0.25      4.000        4.0000"	"[[0 3]
+ [0 1]]"	1
+67	Mechanism of Infection	16	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0             0.25      0.25      0.125        0.0625
+recall             0.0             1.00      0.25      0.500        0.2500
+f1-score           0.0             0.40      0.25      0.200        0.1000
+support            3.0             1.00      0.25      4.000        4.0000"	"[[0 3]
+ [0 1]]"	2
+68	Mechanism of Infection	16	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.333333       0.5   0.666667      0.833333
+recall        0.333333         1.000000       0.5   0.666667      0.500000
+f1-score      0.500000         0.500000       0.5   0.500000      0.500000
+support       3.000000         1.000000       0.5   4.000000      4.000000"	"[[1 2]
+ [0 1]]"	3
+69	Mechanism of Infection	16	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0             0.25      0.25      0.125        0.0625
+recall             0.0             1.00      0.25      0.500        0.2500
+f1-score           0.0             0.40      0.25      0.200        0.1000
+support            3.0             1.00      0.25      4.000        4.0000"	"[[0 3]
+ [0 1]]"	4
+70	Mechanism	28	Logistic Regression	0.7222222222222222	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         0.500000       0.5   0.500000      0.500000
+recall        0.333333         0.666667       0.5   0.500000      0.500000
+f1-score      0.400000         0.571429       0.5   0.485714      0.485714
+support       3.000000         3.000000       0.5   6.000000      6.000000"	"[[1 2]
+ [1 2]]"	0
+71	Mechanism	28	Logistic Regression	0.8	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.25         1.000000       0.5   0.625000      0.875000
+recall            1.00         0.400000       0.5   0.700000      0.500000
+f1-score          0.40         0.571429       0.5   0.485714      0.542857
+support           1.00         5.000000       0.5   6.000000      6.000000"	"[[1 0]
+ [3 2]]"	1
+72	Mechanism	28	Logistic Regression	0.3888888888888889	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         0.500000       0.5   0.500000      0.500000
+recall        0.333333         0.666667       0.5   0.500000      0.500000
+f1-score      0.400000         0.571429       0.5   0.485714      0.485714
+support       3.000000         3.000000       0.5   6.000000      6.000000"	"[[1 2]
+ [1 2]]"	2
+73	Mechanism	28	Logistic Regression	0.9	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.166667              0.0  0.166667   0.083333      0.027778
+recall        1.000000              0.0  0.166667   0.500000      0.166667
+f1-score      0.285714              0.0  0.166667   0.142857      0.047619
+support       1.000000              5.0  0.166667   6.000000      6.000000"	"[[1 0]
+ [5 0]]"	3
+74	Mechanism	28	Logistic Regression	0.8	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.166667              0.0  0.166667   0.083333      0.027778
+recall        1.000000              0.0  0.166667   0.500000      0.166667
+f1-score      0.285714              0.0  0.166667   0.142857      0.047619
+support       1.000000              5.0  0.166667   6.000000      6.000000"	"[[1 0]
+ [5 0]]"	4
+75	Host Factors	28	Logistic Regression	0.7777777777777778	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.60         1.000000  0.666667   0.800000      0.800000
+recall            1.00         0.333333  0.666667   0.666667      0.666667
+f1-score          0.75         0.500000  0.666667   0.625000      0.625000
+support           3.00         3.000000  0.666667   6.000000      6.000000"	"[[3 0]
+ [2 1]]"	0
+76	Host Factors	28	Logistic Regression	0.8	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.200000         1.000000  0.333333   0.600000      0.866667
+recall        1.000000         0.200000  0.333333   0.600000      0.333333
+f1-score      0.333333         0.333333  0.333333   0.333333      0.333333
+support       1.000000         5.000000  0.333333   6.000000      6.000000"	"[[1 0]
+ [4 1]]"	1
+77	Host Factors	28	Logistic Regression	0.888888888888889	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.60         1.000000  0.666667   0.800000      0.800000
+recall            1.00         0.333333  0.666667   0.666667      0.666667
+f1-score          0.75         0.500000  0.666667   0.625000      0.625000
+support           3.00         3.000000  0.666667   6.000000      6.000000"	"[[3 0]
+ [2 1]]"	2
+78	Host Factors	28	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.833333   0.750000      0.916667
+recall        1.000000         0.800000  0.833333   0.900000      0.833333
+f1-score      0.666667         0.888889  0.833333   0.777778      0.851852
+support       1.000000         5.000000  0.833333   6.000000      6.000000"	"[[1 0]
+ [1 4]]"	3
+79	Host Factors	28	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.333333             1.00  0.666667   0.666667      0.888889
+recall        1.000000             0.60  0.666667   0.800000      0.666667
+f1-score      0.500000             0.75  0.666667   0.625000      0.708333
+support       1.000000             5.00  0.666667   6.000000      6.000000"	"[[1 0]
+ [2 3]]"	4
+80	Immunological Response	28	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            3.0              3.0       1.0        6.0           6.0"	"[[3 0]
+ [0 3]]"	0
+81	Immunological Response	28	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.333333             1.00  0.666667   0.666667      0.888889
+recall        1.000000             0.60  0.666667   0.800000      0.666667
+f1-score      0.500000             0.75  0.666667   0.625000      0.708333
+support       1.000000             5.00  0.666667   6.000000      6.000000"	"[[1 0]
+ [2 3]]"	1
+82	Immunological Response	28	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            3.0              3.0       1.0        6.0           6.0"	"[[3 0]
+ [0 3]]"	2
+83	Immunological Response	28	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.333333             1.00  0.666667   0.666667      0.888889
+recall        1.000000             0.60  0.666667   0.800000      0.666667
+f1-score      0.500000             0.75  0.666667   0.625000      0.708333
+support       1.000000             5.00  0.666667   6.000000      6.000000"	"[[1 0]
+ [2 3]]"	3
+84	Immunological Response	28	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.333333             1.00  0.666667   0.666667      0.888889
+recall        1.000000             0.60  0.666667   0.800000      0.666667
+f1-score      0.500000             0.75  0.666667   0.625000      0.708333
+support       1.000000             5.00  0.666667   6.000000      6.000000"	"[[1 0]
+ [2 3]]"	4
+85	Mechanism of Transmission	6	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0         0.500000       0.5   0.250000      0.250000
+recall             0.0         1.000000       0.5   0.500000      0.500000
+f1-score           0.0         0.666667       0.5   0.333333      0.333333
+support            1.0         1.000000       0.5   2.000000      2.000000"	"[[0 1]
+ [0 1]]"	0
+86	Mechanism of Transmission	6	Logistic Regression	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0              0.0       0.0        0.0           0.0
+recall             0.0              0.0       0.0        0.0           0.0
+f1-score           0.0              0.0       0.0        0.0           0.0
+support            2.0              0.0       0.0        2.0           2.0"	"[[0 2]
+ [0 0]]"	1
+87	Mechanism of Transmission	6	Logistic Regression	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000              0.0       0.5   0.250000      0.250000
+recall        1.000000              0.0       0.5   0.500000      0.500000
+f1-score      0.666667              0.0       0.5   0.333333      0.333333
+support       1.000000              1.0       0.5   2.000000      2.000000"	"[[1 0]
+ [1 0]]"	2
+88	Mechanism of Transmission	6	Logistic Regression	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0              0.0       0.0        0.0           0.0
+recall             0.0              0.0       0.0        0.0           0.0
+f1-score           0.0              0.0       0.0        0.0           0.0
+support            0.0              2.0       0.0        2.0           2.0"	"[[0 0]
+ [2 0]]"	3
+89	Mechanism of Transmission	6	Logistic Regression	-2.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0              0.0       0.0        0.0           0.0
+recall             0.0              0.0       0.0        0.0           0.0
+f1-score           0.0              0.0       0.0        0.0           0.0
+support            0.0              2.0       0.0        2.0           2.0"	"[[0 0]
+ [2 0]]"	4
