@@ -1,0 +1,345 @@
+	_id	category	counts	completions	average	broad_cats	predicted_cats	match?
+0	figshare11752752	Virus Factors	8	12	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+1	figshare11806065	Pharmaceutical Treatments	8	12	0.6666666666666666	Treatment	['Treatment']	True
+2	figshare11848224	Virus Factors	8	10	0.8	Mechanism	['Mechanism', 'Transmission', 'Forecasting']	True
+3	figshare11860929	Viral Shedding / Persistence	8	10	0.8	Transmission	['Transmission', 'Diagnosis']	True
+4	figshare11860929	Virus Detection	7	10	0.7	Diagnosis	['Transmission', 'Diagnosis']	True
+5	figshare11954889	Virus Factors	6	9	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+7	figshare11988057	Virus Detection	6	8	0.75	Diagnosis	['Diagnosis']	True
+8	figshare11993181	Mechanism of Infection	6	7	0.8571428571428571	Mechanism	['Mechanism', 'Treatment']	True
+9	figshare11993181	Virus Factors	6	7	0.8571428571428571	Mechanism	['Mechanism', 'Treatment']	True
+10	figshare11997969	Transmission	8	10	0.8	Transmission	['Transmission', 'Forecasting', 'Environment']	True
+11	figshare12011940	Mechanism	5	7	0.7142857142857143	Mechanism	['Mechanism', 'Treatment']	True
+13	figshare12015477	Forecasting	4	6	0.6666666666666666	Forecasting	['Transmission', 'Prevention', 'Forecasting', 'Environment']	True
+14	figshare12019035	Host Factors	5	5	1.0	Mechanism	['Mechanism', 'Treatment']	True
+16	figshare12028257	Virus Factors	3	4	0.75	Mechanism	['Mechanism']	True
+17	figshare12028266	Virus Factors	4	5	0.8	Mechanism	['Mechanism']	True
+18	figshare12030297	Behavioral Research	4	6	0.6666666666666666	Behavioral Research	['Prevention', 'Behavioral Research', 'Information Sciences']	True
+20	figshare12032730	Virus Factors	4	5	0.8	Mechanism	['Mechanism', 'Transmission', 'Treatment', 'Environment']	True
+22	figshare12043683	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+23	figshare12043686	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+24	figshare12043689	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+25	figshare12043692	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+26	figshare12043695	Virus Factors	6	7	0.8571428571428571	Mechanism	['Mechanism', 'Treatment']	True
+27	figshare12043698	Virus Factors	4	5	0.8	Mechanism	['Mechanism', 'Treatment']	True
+28	figshare12043701	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+29	figshare12043704	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+30	figshare12043707	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+31	figshare12043713	Virus Factors	4	4	1.0	Mechanism	['Mechanism', 'Treatment']	True
+32	figshare12043719	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+33	figshare12043722	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+34	figshare12043725	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+35	figshare12043728	Virus Factors	4	5	0.8	Mechanism	['Mechanism', 'Treatment']	True
+36	figshare12043731	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+37	figshare12043734	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+38	figshare12043737	Virus Factors	4	5	0.8	Mechanism	['Mechanism', 'Treatment']	True
+39	figshare12043740	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+40	figshare12043743	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+41	figshare12043746	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+43	figshare12043749	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+44	figshare12043749	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+45	figshare12043752	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+46	figshare12043752	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+47	figshare12043758	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+48	figshare12043761	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+49	figshare12043764	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+50	figshare12044754	Vaccines	4	4	1.0	Treatment	['Mechanism', 'Treatment']	True
+51	figshare12053070	Immunological Response	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+52	figshare12053070	Host Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+56	figshare12057951	Symptoms	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+57	figshare12063372	Treatment	3	3	1.0	Treatment	['Mechanism', 'Treatment']	True
+58	figshare12082035	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Transmission', 'Environment']	True
+60	figshare12082035	Host Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Transmission', 'Environment']	True
+61	figshare12082035	Host/Intermediate Reservoirs	2	3	0.6666666666666666	Transmission	['Mechanism', 'Transmission', 'Environment']	True
+63	figshare12095616	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention']	True
+64	figshare12097659	Repurposing	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+65	figshare12097659	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+66	figshare12102264	Immunological Response	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+67	figshare12102954	Behavioral Research	3	3	1.0	Behavioral Research	['Behavioral Research']	True
+68	figshare12106737	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+69	figshare12106737	Vaccines	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+70	figshare12107157	Treatment	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+73	figshare12111570	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Treatment']	True
+74	figshare12111570	Repurposing	2	3	0.6666666666666666	Treatment	['Treatment']	True
+77	figshare12115095	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+78	figshare12115095	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+80	figshare12123681	Public Health Interventions	3	3	1.0	Prevention	['Transmission', 'Prevention', 'Forecasting', 'Environment', 'Information Sciences']	True
+82	figshare12124401	Host Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+83	figshare12124401	Treatment	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+88	figshare12141897	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Transmission', 'Diagnosis', 'Forecasting']	True
+89	figshare12143112	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Transmission', 'Prevention', 'Forecasting', 'Information Sciences']	True
+95	figshare12159924	Rapid Diagnostics	3	3	1.0	Diagnosis	['Diagnosis', 'Information Sciences']	True
+96	figshare12159924	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Information Sciences']	True
+98	figshare12160998	Host Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+100	figshare12161124	Public Health Interventions	3	3	1.0	Prevention	['Prevention']	True
+102	figshare12161124	Individual Prevention	2	3	0.6666666666666666	Prevention	['Prevention']	True
+104	figshare12161910	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention', 'Information Sciences']	True
+115	figshare12189336	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+116	figshare12189336	Repurposing	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+117	figshare12189336	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+118	figshare12195441	Pathology/Radiology	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+119	figshare12195441	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Diagnosis', 'Treatment']	True
+120	figshare12195441	Symptoms	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+121	figshare12195441	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+124	figshare12195735	Symptoms	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+129	figshare12199017	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Treatment']	True
+130	figshare12199017	Repurposing	2	3	0.6666666666666666	Treatment	['Treatment']	True
+131	figshare12199023	Repurposing	3	3	1.0	Treatment	['Mechanism', 'Treatment']	True
+132	figshare12199023	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+135	figshare12219572	Forecasting	2	3	0.6666666666666666	Forecasting	['Prevention', 'Forecasting']	True
+136	figshare12221612	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Prevention', 'Behavioral Research', 'Information Sciences']	True
+137	figshare12226952	Behavioral Research	3	3	1.0	Behavioral Research	['Behavioral Research', 'Information Sciences']	True
+140	figshare12227543	Behavioral Research	3	3	1.0	Behavioral Research	['Behavioral Research']	True
+141	figshare12229922	Antibody Detection	3	3	1.0	Diagnosis	['Diagnosis']	True
+142	figshare12229922	Rapid Diagnostics	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+143	figshare12229922	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+155	figshare12249581	Individual Prevention	2	3	0.6666666666666666	Prevention	['Prevention']	True
+157	figshare12250733	Public Health Interventions	3	3	1.0	Prevention	['Transmission', 'Prevention', 'Forecasting']	True
+159	figshare12250733	Forecasting	2	3	0.6666666666666666	Forecasting	['Transmission', 'Prevention', 'Forecasting']	True
+164	figshare12270884	Forecasting	2	3	0.6666666666666666	Forecasting	['Transmission', 'Prevention', 'Forecasting']	True
+165	figshare12270884	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Transmission', 'Prevention', 'Forecasting']	True
+166	figshare12272015	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+167	figshare12272327	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+168	figshare12272327	Vaccines	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+169	figshare12273089	Rapid Diagnostics	3	3	1.0	Diagnosis	['Diagnosis']	True
+170	figshare12273089	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+171	figshare12273188	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+173	figshare12278249	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+178	figshare12292829	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+179	figshare12292829	Repurposing	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+181	figshare12298844	Behavioral Research	3	3	1.0	Behavioral Research	['Prevention', 'Behavioral Research', 'Information Sciences']	True
+187	figshare12302408	Rapid Diagnostics	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+188	figshare12302408	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+190	figshare12309251	Repurposing	3	3	1.0	Treatment	['Treatment']	True
+191	figshare12309251	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Treatment']	True
+193	figshare12316340	Host Factors	3	3	1.0	Mechanism	['Mechanism']	True
+194	figshare12316340	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+195	figshare12316340	Mechanism of Infection	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+196	figshare12316340	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+197	figshare12320435	Medical Care	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+198	figshare12325199	Symptoms	3	3	1.0	Diagnosis	['Diagnosis']	True
+199	figshare12325202	Symptoms	3	3	1.0	Diagnosis	['Diagnosis']	True
+200	figshare12327923	Host Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+201	figshare12327923	Mechanism of Infection	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+206	figshare12344135	Symptoms	2	3	0.6666666666666666	Diagnosis	['Transmission', 'Diagnosis']	True
+208	figshare12355064	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Treatment']	True
+209	figshare12355064	Treatment	2	3	0.6666666666666666	Treatment	['Treatment']	True
+210	figshare12355064	Vaccines	2	3	0.6666666666666666	Treatment	['Treatment']	True
+212	figshare12355733	Pathology/Radiology	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+214	figshare12355733	Symptoms	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+215	figshare12356231	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Transmission', 'Prevention', 'Forecasting', 'Environment']	True
+216	figshare12357473	Prevention	2	3	0.6666666666666666	Prevention	['Transmission', 'Prevention', 'Forecasting']	True
+217	figshare12357473	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Transmission', 'Prevention', 'Forecasting']	True
+218	figshare12357476	Forecasting	3	4	0.75	Forecasting	['Transmission', 'Prevention', 'Forecasting']	True
+219	figshare12357476	Public Health Interventions	3	4	0.75	Prevention	['Transmission', 'Prevention', 'Forecasting']	True
+220	figshare12361493	Behavioral Research	3	3	1.0	Behavioral Research	['Behavioral Research', 'Information Sciences']	True
+221	figshare12362162	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+224	figshare12362162	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+225	figshare12365492	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Treatment']	True
+226	figshare12365492	Treatment	2	3	0.6666666666666666	Treatment	['Treatment']	True
+231	figshare12365498	Treatment	2	3	0.6666666666666666	Treatment	['Treatment']	True
+233	figshare12365501	Treatment	3	3	1.0	Treatment	['Treatment']	True
+235	figshare12366248	Virus Factors	3	3	1.0	Mechanism	['Mechanism']	True
+240	figshare12366275	Virus Factors	3	3	1.0	Mechanism	['Mechanism']	True
+241	figshare12366329	Repurposing	3	3	1.0	Treatment	['Mechanism', 'Treatment']	True
+242	figshare12366449	Virus Factors	3	3	1.0	Mechanism	['Mechanism']	True
+248	figshare12376121	Individual Prevention	2	3	0.6666666666666666	Prevention	['Transmission', 'Prevention', 'Environment']	True
+250	figshare12376121	Prevention	2	3	0.6666666666666666	Prevention	['Transmission', 'Prevention', 'Environment']	True
+251	figshare12376172	Treatment	3	3	1.0	Treatment	['Treatment']	True
+252	figshare12376172	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Treatment']	True
+254	figshare12376178	Treatment	3	3	1.0	Treatment	['Treatment']	True
+255	figshare12376178	Medical Care	2	3	0.6666666666666666	Treatment	['Treatment']	True
+256	figshare12376181	Treatment	3	3	1.0	Treatment	['Treatment']	True
+257	figshare12376181	Biologics	2	3	0.6666666666666666	Treatment	['Treatment']	True
+258	figshare12376184	Biologics	2	3	0.6666666666666666	Treatment	['Treatment']	True
+259	figshare12376184	Treatment	2	3	0.6666666666666666	Treatment	['Treatment']	True
+260	figshare12376232	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Mechanism', 'Behavioral Research']	True
+265	figshare12382706	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention', 'Forecasting']	True
+266	figshare12388010	Symptoms	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+267	figshare12388868	Symptoms	3	3	1.0	Diagnosis	['Diagnosis']	True
+268	figshare12388871	Symptoms	3	3	1.0	Diagnosis	['Diagnosis']	True
+271	figshare12389309	Forecasting	2	3	0.6666666666666666	Forecasting	['Transmission', 'Prevention', 'Forecasting', 'Environment']	True
+272	figshare12389309	Transmission	2	3	0.6666666666666666	Transmission	['Transmission', 'Prevention', 'Forecasting', 'Environment']	True
+273	figshare12389312	Forecasting	2	3	0.6666666666666666	Forecasting	['Transmission', 'Prevention', 'Forecasting', 'Environment']	True
+274	figshare12399236	Behavioral Research	2	3	0.6666666666666666	Behavioral Research	['Behavioral Research']	True
+276	figshare12407360	Forecasting	2	3	0.6666666666666666	Forecasting	['Prevention', 'Forecasting']	True
+278	figshare12424661	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention']	True
+280	figshare12436205	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+285	figshare12445691	Host Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+286	figshare12445691	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+288	figshare12445694	Host Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+289	figshare12445694	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+290	figshare12445697	Host Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+291	figshare12445700	Host Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+292	figshare12445700	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+293	figshare12445700	Mechanism of Infection	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+294	figshare12445700	Treatment	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+296	figshare12449630	Diagnosis	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Diagnosis']	True
+297	figshare12449630	Virus Detection	2	3	0.6666666666666666	Diagnosis	['Mechanism', 'Diagnosis']	True
+300	figshare12449810	Symptoms	3	3	1.0	Diagnosis	['Diagnosis', 'Treatment']	True
+304	figshare12449813	Symptoms	3	3	1.0	Diagnosis	['Diagnosis', 'Treatment']	True
+307	figshare12449816	Symptoms	3	3	1.0	Diagnosis	['Diagnosis', 'Treatment']	True
+309	figshare12449819	Symptoms	3	3	1.0	Diagnosis	['Diagnosis', 'Treatment']	True
+312	figshare12449846	Symptoms	3	3	1.0	Diagnosis	['Diagnosis', 'Treatment', 'Case Descriptions']	True
+314	figshare4321055	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+315	figshare4321055	Mechanism of Infection	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+316	figshare4321082	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+317	figshare4321151	Mechanism of Infection	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+318	figshare4321151	Mechanism of Transmission	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+321	figshare7937462	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+322	figshare7937462	Immunological Response	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+323	figshare7937462	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+324	figshare7937462	Treatment	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+325	figshare9943775	Vaccines	3	3	1.0	Treatment	['Treatment']	True
+326	pdb5R7Z	Virus Factors	4	5	0.8	Mechanism	['Mechanism', 'Treatment']	True
+327	pdb5R80	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+328	pdb5R81	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+330	pdb5R83	Biologics	3	3	1.0	Treatment	['Mechanism', 'Treatment']	True
+333	pdb5R8T	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+334	pdb5RE7	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+335	pdb5RE8	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+336	pdb5REA	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+338	pdb5REE	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+339	pdb5REG	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+340	pdb5REH	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+341	pdb5REM	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+342	pdb5REY	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+343	pdb5REY	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+344	pdb5RFM	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+346	pdb6W01	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+348	pdb6WEY	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+349	pdb6X4I	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+353	pdb6YUN	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+354	pdb6YYT	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+356	pdb6YZ1	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+358	pdb7BQY	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+359	pdb7BRO	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+360	pdb7BRO	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+363	pdb7BTF	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Case Descriptions']	True
+371	pdb7BZ5	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+373	pdb7BZF	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+374	pdb7BZF	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+375	pdb7C01	Biologics	3	3	1.0	Treatment	['Mechanism', 'Treatment']	True
+376	pdb7C01	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+377	pdb7C22	Mechanism of Infection	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+378	pdb7C22	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+379	pdb7C2K	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+380	zenodo.3722580	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+384	zenodo.3722605	Virus Factors	3	4	0.75	Mechanism	['Mechanism', 'Treatment']	True
+385	zenodo.3730327	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+386	zenodo.3730472	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+387	zenodo.3730472	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+388	zenodo.3730483	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+389	zenodo.3730487	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+390	zenodo.3730496	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+391	zenodo.3730503	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+392	zenodo.3730509	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+393	zenodo.3730531	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+394	zenodo.3730555	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+395	zenodo.3730578	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+396	zenodo.3730578	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+398	zenodo.3730603	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+400	zenodo.3730610	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+401	zenodo.3730629	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+402	zenodo.3730635	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+403	zenodo.3730646	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+404	zenodo.3730762	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+405	zenodo.3730818	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+406	zenodo.3730917	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+407	zenodo.3730921	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+408	zenodo.3730929	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+409	zenodo.3730940	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+411	zenodo.3730947	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+412	zenodo.3730951	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+413	zenodo.3730956	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+414	zenodo.3730960	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+417	zenodo.3730960	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+418	zenodo.3730974	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+419	zenodo.3730982	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+420	zenodo.3730992	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+421	zenodo.3730998	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+424	zenodo.3731154	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+425	zenodo.3731178	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+426	zenodo.3731270	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+427	zenodo.3731288	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+428	zenodo.3731294	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+429	zenodo.3731318	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+430	zenodo.3731341	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+431	zenodo.3731353	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+434	zenodo.3731366	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+435	zenodo.3731369	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+436	zenodo.3731376	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+437	zenodo.3731383	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+440	zenodo.3731510	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+441	zenodo.3731514	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+442	zenodo.3731521	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+443	zenodo.3731531	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+444	zenodo.3731535	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+445	zenodo.3731539	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+446	zenodo.3731546	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+447	zenodo.3731550	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+448	zenodo.3731556	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+451	zenodo.3746892	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+453	zenodo.3748120	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention']	True
+458	zenodo.3749747	Public Health Interventions	3	3	1.0	Prevention	['Prevention', 'Forecasting']	True
+460	zenodo.3749747	Forecasting	2	3	0.6666666666666666	Forecasting	['Prevention', 'Forecasting']	True
+461	zenodo.3749747	Prevention	2	3	0.6666666666666666	Prevention	['Prevention', 'Forecasting']	True
+462	zenodo.3749902	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+465	zenodo.3753552	Behavioral Research	3	3	1.0	Behavioral Research	['Forecasting', 'Behavioral Research', 'Information Sciences']	True
+467	zenodo.3754719	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+471	zenodo.3757476	Pathology/Radiology	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+472	zenodo.3757476	Symptoms	2	3	0.6666666666666666	Diagnosis	['Diagnosis']	True
+479	zenodo.3767056	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+480	zenodo.3767056	Repurposing	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+481	zenodo.3767056	Treatment	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+483	zenodo.3779045	Treatment	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+485	zenodo.3780132	Transmission	2	3	0.6666666666666666	Transmission	['Mechanism', 'Transmission']	True
+487	zenodo.3780511	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+489	zenodo.3782480	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention']	True
+493	zenodo.3783636	Symptoms	2	3	0.6666666666666666	Diagnosis	['Diagnosis', 'Treatment']	True
+495	zenodo.3784400	Forecasting	2	3	0.6666666666666666	Forecasting	['Forecasting', 'Information Sciences']	True
+498	zenodo.3788733	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention', 'Forecasting', 'Environment', 'Information Sciences']	True
+503	zenodo.3807765	Biologics	6	3	2.0	Treatment	['Mechanism', 'Treatment']	True
+507	zenodo.3817447	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+511	zenodo.3819291	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+512	zenodo.3820094	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+513	zenodo.3820103	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+514	zenodo.3820103	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+515	zenodo.3820105	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+516	zenodo.3820107	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+517	zenodo.3820107	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+518	zenodo.3820109	Mechanism	3	3	1.0	Mechanism	['Mechanism']	True
+520	zenodo.3820109	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+521	zenodo.3820121	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+522	zenodo.3820123	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+523	zenodo.3820125	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+524	zenodo.3820127	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+525	zenodo.3820135	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+526	zenodo.3820135	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+527	zenodo.3820137	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+528	zenodo.3820139	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+529	zenodo.3820139	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+530	zenodo.3820141	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+531	zenodo.3820143	Virus Factors	3	3	1.0	Mechanism	['Mechanism']	True
+532	zenodo.3820143	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+533	zenodo.3820145	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+534	zenodo.3820147	Virus Factors	3	3	1.0	Mechanism	['Mechanism']	True
+535	zenodo.3820187	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+536	zenodo.3820189	Virus Factors	3	3	1.0	Mechanism	['Mechanism']	True
+537	zenodo.3820189	Mechanism	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+538	zenodo.3820193	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+542	zenodo.3823277	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+543	zenodo.3823277	Repurposing	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+545	zenodo.3825310	Vaccines	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+546	zenodo.3825509	Pharmaceutical Treatments	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+547	zenodo.3832484	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Transmission']	True
+549	zenodo.3833763	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism', 'Treatment']	True
+550	zenodo.3833846	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention', 'Forecasting']	True
+557	zenodo.3840465	Virus Factors	2	3	0.6666666666666666	Mechanism	['Mechanism']	True
+564	zenodo.3855135	Prevention	2	3	0.6666666666666666	Prevention	['Prevention']	True
+565	zenodo.3855135	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Prevention']	True
+567	zenodo.3860013	Medical Care	3	3	1.0	Treatment	['Treatment']	True
+568	zenodo.3860013	Treatment	2	3	0.6666666666666666	Treatment	['Treatment']	True
+569	zenodo.3860798	Virus Factors	3	3	1.0	Mechanism	['Mechanism', 'Treatment']	True
+570	zenodo.3860798	Biologics	2	3	0.6666666666666666	Treatment	['Mechanism', 'Treatment']	True
+572	zenodo.3862076	Public Health Interventions	2	3	0.6666666666666666	Prevention	['Transmission', 'Prevention']	True

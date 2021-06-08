@@ -1,0 +1,34 @@
+Id,Name
+100,N/A
+101,"Behavioral Research"
+102,Clinical
+103,"Risk Factors"
+104,"Antibody Detection"
+105,Diagnosis
+106,Pathology/Radiology
+107,"Rapid Diagnostics"
+108,Symptoms
+109,"Testing Prevalence"
+110,"Virus Detection"
+111,"Classical epidemiology"
+112,Epidemiology
+113,"Molecular epidemiology"
+114,Forecasting
+115,"Host Factors"
+116,"Immunological Response"
+117,Mechanism
+118,"Mechanism of Infection"
+119,"Mechanism of Transmission"
+120,"Virus Factors"
+121,"Individual Prevention"
+122,Prevention
+123,"Public Health Interventions"
+124,"Host/Intermediate Reservoirs"
+125,Transmission
+126,"Viral Shedding / Persistence"
+127,Biologics
+128,"Medical Care"
+129,"Pharmaceutical Treatments"
+130,Repurposing
+131,Treatment
+132,Vaccines
