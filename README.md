@@ -7,7 +7,7 @@ Each user was instructed to classify datasets with up to 5 thematic categories a
 Each dataset was classified by at least 3 citizen scientists. For each dataset, a category needed to have been selected by at least 65% of the users to be considered valid for that category. Users were also asked to mark Datasets which could not be classified (ie- did not have sufficient information, were not in their language).
 
 ### Analyzing the results
-To analyze the performance of citizen scientists, specific categories were mapped to the broader categories for comparison with predictions by an out-the-box algorithm that was trained on LitCovid-classified abstracts. Out of 530 dataset classifications which had reached the threshold needed (ie- 65% of users agreed on a category for this dataset), 344 of the datasets matched the predictions of the algorithm. 186 dataset classifications did not match the classification predicted by the algorithm and were manually inspected.
+To analyze the performance of citizen scientists, specific categories were mapped to the broader categories for comparison with predictions by an out-the-box algorithm that was trained on LitCovid-classified abstracts. Out of 530 dataset classifications which had reached the threshold needed (ie- 65% of users agreed on a category for this dataset), 344 of the datasets matched the predictions of the algorithm and are considered true positives. 186 dataset classifications did not match the classification predicted by the algorithm and were manually inspected.
 
 #### Manual evaluation of non-matches
 Of the 186 dataset classifications that were manually inspected due to disagreement between predicted category and citizen science curated category:
@@ -18,7 +18,9 @@ Of the 186 dataset classifications that were manually inspected due to disagreem
 * 16 were found to match neither curator nor algorithm well
 * 8 ignored (pdb datasets) due to the limited availability of metadata
 
-Given the above findings, the number of expected true positives is estimated to be 452, false positives to be ~78
+The table of manually inspected classifications can be found in this repository at: /results/Evalation%20of%20not-matches.xlsx
+
+Given the above findings, the number of correct classifications is estimated to be 452, incorrect classifications is estimated to be ~78
 
 #### The Categories
 The specific subcategories (left) are mapped to the broader category (right)
